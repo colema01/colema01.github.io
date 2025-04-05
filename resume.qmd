@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Mitch Coleman's CV
+title: Mitch Coleman's Resume
 ---
 
 # Mitch Coleman
@@ -16,16 +16,16 @@ Cybersecurity Officer | Application Engineer | Machine Learning Enthusiast
 Cybersecurity Officer at MadisonHealth, overseeing HIPAA Security, access control, and all technical infrastructure security.
 
 ### Specialized in
-Cybersecurity operations, infrastructure security, scripting automation, healthcare compliance, technical support, and software integration.
+Cybersecurity operations, infrastructure security, penetration testing, scripting automation, healthcare compliance, technical support, and software integration.
 
 ### Technical Skills
-- **Programming:** Python, C#, Clojure, PowerShell, HTML, CSS, JavaScript  
+- **Programming:** Python, C#, Clojure, PowerShell, HTML, CSS, JavaScript, Java, C++, Powershell
 - **Tools:** Batch Scripting, Networking, Windows/Linux Systems, Web Development  
 - **Cybersecurity:** Risk Assessment, Access Management, HIPAA Compliance (Security & Access), Incident Response, Technical Leadership
 
 ## Education
 
-`Expected May 2025`  
+`Expected December 2025`  
 __Brigham Young University–Idaho__, Rexburg, ID  
 Bachelor of Science in Computer Science — *Emphasis in Machine Learning*  
 **GPA:** 3.6
