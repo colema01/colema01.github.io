@@ -1,6 +1,5 @@
 ---
 layout: cv
-title: Mitch Coleman's Resume
 ---
 
 # Mitch Coleman
