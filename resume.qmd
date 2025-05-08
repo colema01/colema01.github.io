@@ -7,7 +7,7 @@ Cybersecurity Officer | Application Engineer | Machine Learning Enthusiast
 
 <div id="webaddress">
 <a href="mailto:mitchlcoleman@gmail.com">mitchlcoleman@gmail.com</a> |
-<a href="https://github.com/colema01">https://github.com/colema01</a> |
+<a href="https://github.com/colema01">github.com/colema01</a> |
 <a href="https://linkedin.com/in/mitch-coleman-3646ba158">linkedin.com/in/mitch-coleman-3646ba158</a>
 </div>
 
