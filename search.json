@@ -1,143 +1,55 @@
 [
   {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
+      "Full Stack",
       "Project 2"
     ]
   },
   {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
+      "Full Stack",
       "Project 4"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
-      "Project 1"
+      "Full Stack",
+      "Project 3"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Data Cleansing",
-      "Project 3"
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
     ]
   },
   {
@@ -148,8 +60,15 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
@@ -175,35 +94,141 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
+      "Machine Learning",
       "Project 1"
     ]
   },
   {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
       "Project 3"
     ]
   },
@@ -228,24 +253,181 @@
     ]
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning"
+      "Story Telling",
+      "Project 5"
     ]
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Mitch Coleman",
+    "section": "",
+    "text": "Cybersecurity Officer | Application Engineer | Machine Learning Enthusiast\n\nmitchlcoleman@gmail.com | https://github.com/colema01 | linkedin.com/in/mitch-coleman-3646ba158\n\n\n\nCybersecurity Officer at MadisonHealth, overseeing HIPAA Security, access control, and all technical infrastructure security.\n\n\nCybersecurity operations, infrastructure security, penetration testing, scripting automation, healthcare compliance, technical support, and software integration.\n\n\n\n\nProgramming: Python, C#, Clojure, PowerShell, HTML, CSS, JavaScript, Java, C++, Powershell\nTools: Batch Scripting, Networking, Windows/Linux Systems, Web Development\n\nCybersecurity: Risk Assessment, Access Management, HIPAA Compliance (Security & Access), Incident Response, Technical Leadership\n\n\n\n\n\nExpected December 2025\nBrigham Young University–Idaho, Rexburg, ID\nBachelor of Science in Computer Science — Emphasis in Machine Learning\nGPA: 3.6\n\n\n\nMar 2024 – Present\nCybersecurity Officer, MadisonHealth, Rexburg, ID\n- Head of the cybersecurity department, managing all technical infrastructure and security operations.\n- Oversee HIPAA Security Rule compliance, specifically focused on access control, user authentication, and audit controls.\n- Lead investigations into breaches and security incidents, ensuring documentation, mitigation, and regulatory compliance.\n- Develop and enforce security policies and technical controls across the hospital’s IT ecosystem.\n- Collaborate with IT and executive leadership to drive cybersecurity strategies aligned with organizational goals.\nSep 2023 – Mar 2024\nApplication Engineer, MadisonHealth, Rexburg, ID\n- Designed and supported software tools and internal web applications for clinical and administrative teams.\n- Streamlined workflow through automation and scripting, reducing manual entry and improving reliability.\n- Led upgrades and transitions of legacy systems to newer, more secure technologies.\nMar 2023 – Sep 2023\nJr. Cybersecurity Analyst, MadisonHealth, Rexburg, ID\n- Supported cybersecurity operations with endpoint protection, log monitoring, and user access auditing.\n- Implemented batch scripting for scheduled maintenance and automated security tasks.\n- Contributed to compliance efforts and participated in security reviews and documentation.\nApr 2022 – Mar 2023\nHelp Desk Technician, MadisonHealth, Rexburg, ID\n- Provided tier-one technical support for hospital staff, resolving hardware, software, and access issues.\n- Authored support documentation and delivered onboarding training for new employees.\n- Recognized for excellent communication and fast issue resolution.\nAug 2019 – Aug 2021\nMission Volunteer, The Church of Jesus Christ of Latter-day Saints, Jamaica\n- Served full-time in leadership and service capacities across diverse communities.\n- Gained experience in public speaking, conflict resolution, and team mentoring."
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Mitch Coleman",
+    "section": "",
+    "text": "Cybersecurity Officer at MadisonHealth, overseeing HIPAA Security, access control, and all technical infrastructure security.\n\n\nCybersecurity operations, infrastructure security, penetration testing, scripting automation, healthcare compliance, technical support, and software integration.\n\n\n\n\nProgramming: Python, C#, Clojure, PowerShell, HTML, CSS, JavaScript, Java, C++, Powershell\nTools: Batch Scripting, Networking, Windows/Linux Systems, Web Development\n\nCybersecurity: Risk Assessment, Access Management, HIPAA Compliance (Security & Access), Incident Response, Technical Leadership"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Mitch Coleman",
+    "section": "",
+    "text": "Expected December 2025\nBrigham Young University–Idaho, Rexburg, ID\nBachelor of Science in Computer Science — Emphasis in Machine Learning\nGPA: 3.6"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Mitch Coleman",
+    "section": "",
+    "text": "Mar 2024 – Present\nCybersecurity Officer, MadisonHealth, Rexburg, ID\n- Head of the cybersecurity department, managing all technical infrastructure and security operations.\n- Oversee HIPAA Security Rule compliance, specifically focused on access control, user authentication, and audit controls.\n- Lead investigations into breaches and security incidents, ensuring documentation, mitigation, and regulatory compliance.\n- Develop and enforce security policies and technical controls across the hospital’s IT ecosystem.\n- Collaborate with IT and executive leadership to drive cybersecurity strategies aligned with organizational goals.\nSep 2023 – Mar 2024\nApplication Engineer, MadisonHealth, Rexburg, ID\n- Designed and supported software tools and internal web applications for clinical and administrative teams.\n- Streamlined workflow through automation and scripting, reducing manual entry and improving reliability.\n- Led upgrades and transitions of legacy systems to newer, more secure technologies.\nMar 2023 – Sep 2023\nJr. Cybersecurity Analyst, MadisonHealth, Rexburg, ID\n- Supported cybersecurity operations with endpoint protection, log monitoring, and user access auditing.\n- Implemented batch scripting for scheduled maintenance and automated security tasks.\n- Contributed to compliance efforts and participated in security reviews and documentation.\nApr 2022 – Mar 2023\nHelp Desk Technician, MadisonHealth, Rexburg, ID\n- Provided tier-one technical support for hospital staff, resolving hardware, software, and access issues.\n- Authored support documentation and delivered onboarding training for new employees.\n- Recognized for excellent communication and fast issue resolution.\nAug 2019 – Aug 2021\nMission Volunteer, The Church of Jesus Christ of Latter-day Saints, Jamaica\n- Served full-time in leadership and service capacities across diverse communities.\n- Gained experience in public speaking, conflict resolution, and team mentoring."
+  },
+  {
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
   },
   {
     "objectID": "cleansing.html",
@@ -279,196 +461,14 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Mitch Coleman",
-    "section": "",
-    "text": "Cybersecurity Officer | Application Engineer | Machine Learning Enthusiast\n\nmitchlcoleman@gmail.com | linkedin.com/in/mitch-coleman-3646ba158\n\n\n\nCybersecurity Officer at MadisonHealth, overseeing HIPAA Security, access control, and all technical infrastructure security.\n\n\nCybersecurity operations, infrastructure security, penetration testing, scripting automation, healthcare compliance, technical support, and software integration.\n\n\n\n\nProgramming: Python, C#, Clojure, PowerShell, HTML, CSS, JavaScript, Java, C++, Powershell\nTools: Batch Scripting, Networking, Windows/Linux Systems, Web Development\n\nCybersecurity: Risk Assessment, Access Management, HIPAA Compliance (Security & Access), Incident Response, Technical Leadership\n\n\n\n\n\nExpected December 2025\nBrigham Young University–Idaho, Rexburg, ID\nBachelor of Science in Computer Science — Emphasis in Machine Learning\nGPA: 3.6\n\n\n\nMar 2024 – Present\nCybersecurity Officer, MadisonHealth, Rexburg, ID\n- Head of the cybersecurity department, managing all technical infrastructure and security operations.\n- Oversee HIPAA Security Rule compliance, specifically focused on access control, user authentication, and audit controls.\n- Lead investigations into breaches and security incidents, ensuring documentation, mitigation, and regulatory compliance.\n- Develop and enforce security policies and technical controls across the hospital’s IT ecosystem.\n- Collaborate with IT and executive leadership to drive cybersecurity strategies aligned with organizational goals.\nSep 2023 – Mar 2024\nApplication Engineer, MadisonHealth, Rexburg, ID\n- Designed and supported software tools and internal web applications for clinical and administrative teams.\n- Streamlined workflow through automation and scripting, reducing manual entry and improving reliability.\n- Led upgrades and transitions of legacy systems to newer, more secure technologies.\nMar 2023 – Sep 2023\nJr. Cybersecurity Analyst, MadisonHealth, Rexburg, ID\n- Supported cybersecurity operations with endpoint protection, log monitoring, and user access auditing.\n- Implemented batch scripting for scheduled maintenance and automated security tasks.\n- Contributed to compliance efforts and participated in security reviews and documentation.\nApr 2022 – Mar 2023\nHelp Desk Technician, MadisonHealth, Rexburg, ID\n- Provided tier-one technical support for hospital staff, resolving hardware, software, and access issues.\n- Authored support documentation and delivered onboarding training for new employees.\n- Recognized for excellent communication and fast issue resolution.\nAug 2019 – Aug 2021\nMission Volunteer, The Church of Jesus Christ of Latter-day Saints, Jamaica\n- Served full-time in leadership and service capacities across diverse communities.\n- Gained experience in public speaking, conflict resolution, and team mentoring."
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Mitch Coleman",
-    "section": "",
-    "text": "Cybersecurity Officer at MadisonHealth, overseeing HIPAA Security, access control, and all technical infrastructure security.\n\n\nCybersecurity operations, infrastructure security, penetration testing, scripting automation, healthcare compliance, technical support, and software integration.\n\n\n\n\nProgramming: Python, C#, Clojure, PowerShell, HTML, CSS, JavaScript, Java, C++, Powershell\nTools: Batch Scripting, Networking, Windows/Linux Systems, Web Development\n\nCybersecurity: Risk Assessment, Access Management, HIPAA Compliance (Security & Access), Incident Response, Technical Leadership"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Mitch Coleman",
-    "section": "",
-    "text": "Expected December 2025\nBrigham Young University–Idaho, Rexburg, ID\nBachelor of Science in Computer Science — Emphasis in Machine Learning\nGPA: 3.6"
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "Mitch Coleman",
-    "section": "",
-    "text": "Mar 2024 – Present\nCybersecurity Officer, MadisonHealth, Rexburg, ID\n- Head of the cybersecurity department, managing all technical infrastructure and security operations.\n- Oversee HIPAA Security Rule compliance, specifically focused on access control, user authentication, and audit controls.\n- Lead investigations into breaches and security incidents, ensuring documentation, mitigation, and regulatory compliance.\n- Develop and enforce security policies and technical controls across the hospital’s IT ecosystem.\n- Collaborate with IT and executive leadership to drive cybersecurity strategies aligned with organizational goals.\nSep 2023 – Mar 2024\nApplication Engineer, MadisonHealth, Rexburg, ID\n- Designed and supported software tools and internal web applications for clinical and administrative teams.\n- Streamlined workflow through automation and scripting, reducing manual entry and improving reliability.\n- Led upgrades and transitions of legacy systems to newer, more secure technologies.\nMar 2023 – Sep 2023\nJr. Cybersecurity Analyst, MadisonHealth, Rexburg, ID\n- Supported cybersecurity operations with endpoint protection, log monitoring, and user access auditing.\n- Implemented batch scripting for scheduled maintenance and automated security tasks.\n- Contributed to compliance efforts and participated in security reviews and documentation.\nApr 2022 – Mar 2023\nHelp Desk Technician, MadisonHealth, Rexburg, ID\n- Provided tier-one technical support for hospital staff, resolving hardware, software, and access issues.\n- Authored support documentation and delivered onboarding training for new employees.\n- Recognized for excellent communication and fast issue resolution.\nAug 2019 – Aug 2021\nMission Volunteer, The Church of Jesus Christ of Latter-day Saints, Jamaica\n- Served full-time in leadership and service capacities across diverse communities.\n- Gained experience in public speaking, conflict resolution, and team mentoring."
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
     ]
   }
 ]
