@@ -3,7 +3,7 @@ layout: cv
 ---
 
 # Mitch Coleman
-Cybersecurity Officer | Application Engineer | Machine Learning Enthusiast
+Cybersecurity Manager | Application Engineer
 
 <div id="webaddress">
 <a href="mailto:mitchlcoleman@gmail.com">mitchlcoleman@gmail.com</a> |
@@ -13,7 +13,7 @@ Cybersecurity Officer | Application Engineer | Machine Learning Enthusiast
 
 ## Currently
 
-Cybersecurity Officer at MadisonHealth, overseeing HIPAA Security, access control, and all technical infrastructure security.
+Cybersecurity Manager at MadisonHealth, overseeing HIPAA Security, access control, and all technical infrastructure security.
 
 ### Specialized in
 Cybersecurity operations, infrastructure security, penetration testing, scripting automation, healthcare compliance, technical support, and software integration.
@@ -24,8 +24,7 @@ Cybersecurity operations, infrastructure security, penetration testing, scriptin
 - **Cybersecurity:** Risk Assessment, Access Management, HIPAA Compliance (Security & Access), Incident Response, Technical Leadership
 
 ## Education
-
-`Expected December 2025`  
+  
 __Brigham Young University–Idaho__, Rexburg, ID  
 Bachelor of Science in Computer Science — *Emphasis in Machine Learning*  
 **GPA:** 3.6
@@ -33,7 +32,7 @@ Bachelor of Science in Computer Science — *Emphasis in Machine Learning*
 ## Experience
 
 `Mar 2024 – Present`  
-__Cybersecurity Officer__, MadisonHealth, Rexburg, ID  
+__Cybersecurity Manager__, MadisonHealth, Rexburg, ID  
 - Head of the cybersecurity department, managing all technical infrastructure and security operations.  
 - Oversee HIPAA Security Rule compliance, specifically focused on access control, user authentication, and audit controls.  
 - Lead investigations into breaches and security incidents, ensuring documentation, mitigation, and regulatory compliance.  
@@ -58,7 +57,3 @@ __Help Desk Technician__, MadisonHealth, Rexburg, ID
 - Authored support documentation and delivered onboarding training for new employees.  
 - Recognized for excellent communication and fast issue resolution.
 
-`Aug 2019 – Aug 2021`  
-__Mission Volunteer__, The Church of Jesus Christ of Latter-day Saints, Jamaica  
-- Served full-time in leadership and service capacities across diverse communities.  
-- Gained experience in public speaking, conflict resolution, and team mentoring.
